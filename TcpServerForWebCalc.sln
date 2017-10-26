@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServerForWebCalc", "TcpServerForWebCalc\TcpServerForWebCalc.csproj", "{BFF75E4A-8B58-4FE1-B1E9-BF622F14EDBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServerForWebCalc", "HttpServerForWebCalc\HttpServerForWebCalc.csproj", "{CD215AB8-A1E4-4898-97F0-8F906926178E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BFF75E4A-8B58-4FE1-B1E9-BF622F14EDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF75E4A-8B58-4FE1-B1E9-BF622F14EDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF75E4A-8B58-4FE1-B1E9-BF622F14EDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD215AB8-A1E4-4898-97F0-8F906926178E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD215AB8-A1E4-4898-97F0-8F906926178E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD215AB8-A1E4-4898-97F0-8F906926178E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD215AB8-A1E4-4898-97F0-8F906926178E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
